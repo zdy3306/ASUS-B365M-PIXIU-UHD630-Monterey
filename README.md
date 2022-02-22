@@ -12,3 +12,6 @@ SSDT-SSD-DISABLE.aml
 用于屏蔽P981硬盘的（不是这款硬盘不需要）
 
 ![image](https://user-images.githubusercontent.com/28612788/155113716-1f9381d5-a817-4676-8d51-a57f9d62edac.png)
+
+还存在的问题：
+第一次开机，会花屏，扒插一次hdmi后（dvi/hdmi）均正常输出
