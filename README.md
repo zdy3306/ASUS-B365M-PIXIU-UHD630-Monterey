@@ -1,1 +1,5 @@
 # ASUS-B365M-PIXIU-UHD630-Monterey
+
+i7-8700
+Intel UHD Graphics 630
+DVI+HDMI
